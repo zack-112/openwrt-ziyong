@@ -1,3 +1,5 @@
+Fork 别人的库来自己使用的固件
+
 # OpenWrt18.06-X86-64最新版云编译项目
 
 ## 固件来源：
@@ -14,5 +16,4 @@ project-openwrt固件源码地址：[https://github.com/project-openwrt/openwrt]
 
 ## 固件下载
 ### 点击[Actions](https://github.com/firker/openwrt-Exclusive/actions) 或者[Releases](https://github.com/firker/openwrt-Exclusive/releases) 选择需要的版本
-![avatar](https://raw.githubusercontent.com/firker/openwrt-Exclusive/main/boc/c.png)
-
+![avatar]
